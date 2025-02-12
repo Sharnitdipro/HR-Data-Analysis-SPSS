@@ -1,7 +1,7 @@
 # HR Data Analysis using SPSS
 
 ## 📌 Project Overview
-This project focuses on analyzing employee satisfaction and HR practices using **SPSS (Statistical Package for the Social Sciences)**. It includes **data preprocessing, descriptive statistics, and regression analysis** to identify factors influencing job satisfaction and performance at Akij Group.
+This project focuses on analyzing employee satisfaction and HR practices using **SPSS (Statistical Package for the Social Sciences)**. It includes **data preprocessing, descriptive statistics, and regression analysis** to identify factors influencing job satisfaction and performance.
 
 ## 📂 Dataset
 The dataset contains employee responses on various HR aspects such as:
